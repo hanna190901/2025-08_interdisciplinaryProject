@@ -1,4 +1,4 @@
-# 2025-08_interdisciplinaryProject
+# 2025-08_InterdisciplinaryProject
 
 In the summer semester of 2025, I worked on an interdisciplinary project titled ‘Solar System Detection with GeoAI’ as part of my master's degree in Computational Science at the University of Potsdam. The project was part of my work as a working student at virtualcitysystems GmbH, a Berlin-based company that develops software for urban digital twins. The exposé and the final report, which also includes the source code and all results, can be found here.
 
